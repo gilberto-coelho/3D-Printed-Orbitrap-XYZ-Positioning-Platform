@@ -131,6 +131,18 @@ These modifications resulted in a compact positioning system suitable for aligni
 <br>
 <br>
 
+**Printable Position Scale**
+
+I also designed a miniature measurement scale (-20 to +20 mm) to be attached to the 3D-printed linear stages, providing a visual reference for positioning adjustments.
+
+The scale can be printed on regular paper using 100% scale (actual size) in the printer settings to preserve the correct dimensions.
+
+For better durability, transparent adhesive tape can be applied over the printed surface to protect it from wear. Double-sided adhesive tape can then be applied to the back to attach the scale to the linear stage, as shown in the photo below.
+
+Printable scale: **[Download PDF](STL-files/Linear-stage/Label-linear-stage.pdf)**
+
+<br> 
+
 **Complete XYZ positioning assembly:**
 
 <table>
