@@ -42,7 +42,10 @@ These components were designed to reproduce the required mounting geometry while
 
 **Machined aluminum pins and dimensional drawing:**
 
-<img width="1473" height="835" alt="image" src="https://github.com/user-attachments/assets/7f853c42-b9e6-49ef-beba-49fb428dd209" />
+<img width="1463" height="821" alt="image" src="https://github.com/user-attachments/assets/d2e698ee-c9ed-4685-b57a-ae9131b9bbef" />
+
+<br>
+<br>
 
 **Lathe machining and threaded pin fabrication:**
 
@@ -62,7 +65,7 @@ These components were designed to reproduce the required mounting geometry while
     <td width="50%">
       <img width="1067" height="858" alt="image" src="https://github.com/user-attachments/assets/76d514f9-a91b-46c7-b517-cf53a1eaaedd" />
     <td width="50%">
-      <img width="640" height="518" alt="image" src="https://github.com/user-attachments/assets/edbbe7b5-0176-4201-8123-b2e384669afe" />
+     <video src="https://github.com/user-attachments/assets/7ba5b432-4f87-427a-80d8-5bb20058c09a" width="300" controls></video>    
     </td>
     </td>
   </tr>
@@ -136,8 +139,19 @@ These modifications resulted in a compact positioning system suitable for aligni
       <img width="952" height="856" alt="image" src="https://github.com/user-attachments/assets/02937fd1-40ed-4464-a673-676671230c2f" />
     </td>
     <td width="50%">
-      <img width="1022" height="1103" alt="XYZ complete" src="https://github.com/user-attachments/assets/35ce94a8-4227-4016-92b8-078f102d027a" />
+      <img width="1301" height="1272" alt="IMG_5212" src="https://github.com/user-attachments/assets/98893e27-4ef0-499a-baea-86cc4dc8cefd" />
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%">
+       <video src="https://github.com/user-attachments/assets/1f58583a-cb8b-42a4-9a5a-2a5376ecaa07" width="300" controls></video>
+    </td>
+    <td width="50%">
+      <video src="https://github.com/user-attachments/assets/e6fef60a-765d-4f7b-b6e1-c23f78c1be59" width="300" controls></video>
+   </td>
   </tr>
 </table>
 
