@@ -234,16 +234,6 @@ https://github.com/user-attachments/assets/ee95a935-ca86-435c-801c-68a8f7ad99ae
 
 <br>
 
-## Skills Demonstrated
-
-- **3D CAD Modeling:** custom mechanical assemblies, adapters, and precision positioning mechanisms.
-- **3D Printing:** PETG fabrication, dimensional fitting, and mechanical assembly.
-- **Metalworking:** lathe machining, drilling, and threading of aluminum and steel components.
-- **Mechanical Design:** linear motion, screw-driven positioning, component selection, and integration.
-- **Laboratory Instrumentation:** custom mounting solutions for mass spectrometry equipment.
-
-<br>
-
 ## Credits and License
 
 The modified linear stages are based on the original **[Printed Linear Stage](https://www.thingiverse.com/thing:6650149)** designed by **[Remi-Rafael](https://www.thingiverse.com/Remi-Rafael/designs)** and published on Thingiverse.
